@@ -10,7 +10,9 @@
 ![Tajnur's github stats](https://github-readme-stats.vercel.app/api?username=tajnur007&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajnur007&layout=compact)](https://github.com/tajnur007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tajnur007&layout=compact&theme=merko)](https://github.com/tajnur007/github-readme-stats)
+[![Tajnur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tajnur007&layout=compact&theme=radical)](https://github.com/tajnur007/github-readme-stats)
+
 
 
 ### My Stacks
