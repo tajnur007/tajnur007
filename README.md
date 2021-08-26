@@ -1,4 +1,4 @@
-### Assalamualaikum (Hi There), I am [Kazi Tajnur Islam](https://www.linkedin.com/in/tajnur/) ✨
+### Hi There, I am [Kazi Tajnur Islam](https://www.linkedin.com/in/tajnur/) ✨
 
 
 
