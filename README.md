@@ -1,10 +1,8 @@
 ### Hi There, I am [Kazi Tajnur Islam](https://www.linkedin.com/in/tajnur/) ✨
 
-
-
-
 - Studies Major in Computer Science and Engineering (CSE) at [Bangladesh Open University](https://www.bou.edu.bd/)
 
+## [Download](https://drive.google.com/file/d/1nLjuzf7fqRUUUucmQTx5bgGzIhjVNkD1/view) My Resume 
 
 
 ![Tajnur's github stats](https://github-readme-stats.vercel.app/api?username=tajnur007&show_icons=true&theme=tokyonight)
