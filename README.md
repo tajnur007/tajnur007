@@ -2,7 +2,7 @@
 
 - Studies Major in Computer Science and Engineering (CSE) at [Bangladesh Open University](https://www.bou.edu.bd/)
 
-## [Download](https://drive.google.com/file/d/1nLjuzf7fqRUUUucmQTx5bgGzIhjVNkD1/view) My Resume 
+## [Download](https://drive.google.com/file/d/1lwct1V47MWTyldr3lLc5YaVJ2-TFbmQk/view) My Resume 
 
 
 ![Tajnur's github stats](https://github-readme-stats.vercel.app/api?username=tajnur007&show_icons=true&theme=tokyonight)
