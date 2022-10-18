@@ -1,51 +1,92 @@
-<h1 align="center">Hi 👋, I'm Kazi Tajnur Islam</h1>
-<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/tajnur007/tajnur007/master/name.svg" alt="Kazi Tajnur Islam" />
+</h1>
 
-<p align="left"> <img src="https://gpvc.arturio.dev/tajnur007" alt="tajnur007" /> </p>
+[![Linkedin: tajnur](https://img.shields.io/badge/-tajnur-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tajnur/)](https://www.linkedin.com/in/tajnur/)
+![GitHub followers](https://img.shields.io/github/followers/tajnur007?label=Follow&style=social)
+[![Facebook: tajnur](https://img.shields.io/badge/-tajnur007-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/tajnur007/)](https://www.facebook.com/tajnur007/)
+[![website](https://img.shields.io/badge/Website-blueviolet?&style=flat&logo=Google-Chrome&logoColor=white&link=https://tajnur.gatsbyjs.io/)](https://tajnur.gatsbyjs.io/)
+![Profile Views](https://gpvc.arturio.dev/tajnur007)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajnur007" alt="tajnur007" /></a> </p>
 
-- 🔭 I’m currently working on [CarZ - Client Side](https://github.com/tajnur007/CarZ-Client-Side) and [CarZ - Server Side](https://github.com/tajnur007/CarZ-Server-Side)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🌱 I’m currently learning **React-Native, Redux, and Laravel.**
+```javascript
+const TAJNUR = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "C++", "Python"],
+    askMeAbout: ["Web Development", "Competitive Programming", "Tech", "JavaScript"],
+    technologies: {
+        frontend: {
+            js: ["React.js", "Next.js", "Redux.js", "Redux-Toolkit", "React-Query"],
+            css: ["Tailwind CSS", "Bootstrap"],
+            others: ["HTML5", "Material UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"],
+            hybrid: ["React Native"],
+        },
+        databases: ["MongoDB", "MySql", "sqlite"],
+        misc: ["Firebase"],
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Web Architecture, React Native, and Redux",
+    funFact: "I know it’s crazy, but I love to eat."
+};
+```
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+## 👨‍💻 Competitive Programming Profiles
 
-- 🤝 I’m looking for help with **software engineering guideline.**
+[![LeetCode](https://img.shields.io/badge/LeetCode-tajnur-informational?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/tajnur/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tajnur_bd-informational?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tajnur_bd)
+[![CodeChef](https://img.shields.io/badge/CodeChef-tajnur-informational?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tajnur)
+[![HackerRank](https://img.shields.io/badge/HackerRank-tajnur007-informational?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tajnur007)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://tajnur.gatsbyjs.io/)
+## 🔧 Technologies & Tools
 
-- 💬 Ask me about **JavaScript, React, and C++.**
+![](https://img.shields.io/badge/Code-JavaScript-success?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-success?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/Code-ReactJS-success?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Code-NextJS-success?style=for-the-badge&logo=Next&logoColor=white)
+![](https://img.shields.io/badge/Code-Redux-success?style=for-the-badge&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/Code-ReactQuery-success?style=for-the-badge&logo=ReactQuery&logoColor=white)
+![](https://img.shields.io/badge/Code-NodeJS-success?style=for-the-badge&logo=Node&logoColor=white)
+![](https://img.shields.io/badge/Code-ExpressJS-success?style=for-the-badge&logo=Express&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML5-success?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS3-success?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/Code-TailwindCSS-success?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![](https://img.shields.io/badge/Code-Bootstrap-success?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Code-C++-success?style=for-the-badge&logo=CPP&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-success?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/DB-MongoDB-blue?style=for-the-badge&logo=MongoDB&logoColor=white)
+![](https://img.shields.io/badge/DB-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/DB-Oracle-blue?style=for-the-badge&logo=Oracle&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Tools-Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white)
+![](https://img.shields.io/badge/Tools-Bitbucket-blueviolet?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Tools-Firebase-blueviolet?style=for-the-badge&logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/Tools-Figma-blueviolet?style=for-the-badge&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/Tools-Photoshop-blueviolet?style=for-the-badge&logo=ps&logoColor=white)
+![](https://img.shields.io/badge/Tools-Heroku-blueviolet?style=for-the-badge&logo=Heroku&logoColor=white)
+![](https://img.shields.io/badge/Tools-VSCode-blueviolet?style=for-the-badge&logo=vs&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white)
 
-- 📫 How to reach me **tajnur007@gmail.com**
+## 🏆 GitHub Trophies
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gOLzy1H8kRs4TdOyfSep9EP0btx3y3LR/view?usp=sharing)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tajnur007&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **I know it’s crazy, but I love to eat.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tajnur" target="blank" title="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajnur" height="30" width="40" /></a>
-<a href="https://fb.com/tajnur007" target="blank" title="Facebook"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajnur007" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tajnur" target="blank" title="Code Chef"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tajnur" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tajnur007" target="blank" title="HackerRank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tajnur007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tajnur_bd" target="blank" title="Codeforces"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tajnur_bd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tajnur" target="blank" title="Leetcode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tajnur" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/tajnurbd" target="blank" title="Topcoder"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tajnurbd" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tajnur007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tajnur007" /></a></p><br><br><br>
+## &#x1f4c8; GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajnur007&layout=compact&theme=merko" alt="tajnur007" width="47%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tajnur007&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D" alt="tajnur007" width="47%" height="100%" />
 <img src="https://github-readme-stats.vercel.app/api?username=tajnur007&show_icons=true&theme=tokyonight" alt="tajnur007" width="47%"  />
 </p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tajnur007&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D" alt="tajnur007" width="47%" height="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajnur007&layout=compact&theme=merko" alt="tajnur007" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tajnur007&layout=compact&theme=radical" alt="tajnur007" width="47%" height="100%"  />
 </p>
