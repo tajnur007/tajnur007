@@ -15,7 +15,16 @@
 const TAJNUR = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "C++", "Python"],
-    askMeAbout: ["Web Development", "Competitive Programming", "Tech", "JavaScript"],
+    experiences: {
+        Software_Engineer_L_II: {
+            company: "Vivasoft Limited, Dhaka, BD",
+            duration: "January 2022 - present",
+        },
+        Software_Engineer_L_I: {
+            company: "Vivasoft Limited, Dhaka, BD",
+            duration: "July 2020 - December 2021",
+        },
+    },
     technologies: {
         frontend: {
             js: ["React.js", "Next.js", "Redux.js", "Redux-Toolkit", "React-Query"],
@@ -26,12 +35,13 @@ const TAJNUR = {
             js: ["Node", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"],
             hybrid: ["React Native"],
+            native: ["Android Development"],
         },
         databases: ["MongoDB", "MySql", "sqlite"],
         misc: ["Firebase"],
     },
+    askMeAbout: ["Web Development", "Competitive Programming", "Tech", "JavaScript"],
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Web Architecture, React Native, and Redux",
     funFact: "I know it’s crazy, but I love to eat."
