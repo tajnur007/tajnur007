@@ -22,7 +22,7 @@ const TAJNUR = {
         },
         Software_Engineer_L_I: {
             company: "Vivasoft Limited, Dhaka, BD",
-            duration: "July 2020 - December 2021",
+            duration: "January 2021 - December 2021",
         },
     },
     technologies: {
