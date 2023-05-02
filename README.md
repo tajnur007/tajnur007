@@ -9,6 +9,12 @@
 ![Profile Views](https://gpvc.arturio.dev/tajnur007)
 
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-tajnur-informational?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/tajnur/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tajnur_bd-informational?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tajnur_bd)
+[![CodeChef](https://img.shields.io/badge/CodeChef-tajnur-informational?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tajnur)
+[![HackerRank](https://img.shields.io/badge/HackerRank-tajnur007-informational?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tajnur007)
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
@@ -48,14 +54,14 @@ const TAJNUR = {
 };
 ```
 
-## 👨‍💻 Competitive Programming Profiles
+<!-- ## 👨‍💻 Competitive Programming Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-tajnur-informational?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/tajnur/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-tajnur_bd-informational?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tajnur_bd)
 [![CodeChef](https://img.shields.io/badge/CodeChef-tajnur-informational?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tajnur)
-[![HackerRank](https://img.shields.io/badge/HackerRank-tajnur007-informational?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tajnur007)
+[![HackerRank](https://img.shields.io/badge/HackerRank-tajnur007-informational?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tajnur007) -->
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-success?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-success?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -87,16 +93,16 @@ const TAJNUR = {
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tajnur007&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tajnur007&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajnur007&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D" alt="tajnur007" width="47%" height="100%" />
 <img src="https://github-readme-stats.vercel.app/api?username=tajnur007&show_icons=true&theme=tokyonight" alt="tajnur007" width="47%"  />
 </p>
 
-<p>
+<!-- <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajnur007&layout=compact&theme=merko" alt="tajnur007" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tajnur007&layout=compact&theme=radical" alt="tajnur007" width="47%" height="100%"  />
-</p>
+</p> -->
