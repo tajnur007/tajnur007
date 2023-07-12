@@ -6,15 +6,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/tajnur007?label=Follow&style=social)
 [![Facebook: tajnur](https://img.shields.io/badge/-tajnur007-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/tajnur007/)](https://www.facebook.com/tajnur007/)
 [![website](https://img.shields.io/badge/Website-blueviolet?&style=flat&logo=Google-Chrome&logoColor=white&link=https://tajnur.gatsbyjs.io/)](https://tajnur.gatsbyjs.io/)
-![Profile Views](https://gpvc.arturio.dev/tajnur007)
-
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-tajnur-informational?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/tajnur/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-tajnur_bd-informational?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tajnur_bd)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tajnur_bd-informational?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/The_Optimizer_101)
 [![CodeChef](https://img.shields.io/badge/CodeChef-tajnur-informational?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tajnur)
 [![HackerRank](https://img.shields.io/badge/HackerRank-tajnur007-informational?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tajnur007)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=tajnur007&color=brightgreen) -->
+
+👋 Hello, I'm a JavaScript-based Front-end developer with over 2+ years of professional experience. I'm passionate about crafting beautiful and user-friendly web interfaces that deliver seamless experiences to users. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive websites using modern frameworks like React.js and Angular. I have a keen eye for design, attention to detail, and a problem-solving mindset that allows me to tackle complex challenges efficiently. My goal is to create engaging and accessible web applications that exceed client expectations. Let's collaborate and bring your ideas to life!
 
 
+<!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```javascript
@@ -53,6 +54,7 @@ const TAJNUR = {
     funFact: "I know it’s crazy, but I love to eat."
 };
 ```
+-->
 
 <!-- ## 👨‍💻 Competitive Programming Profiles
 
@@ -97,10 +99,12 @@ const TAJNUR = {
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
+<!--
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajnur007&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D" alt="tajnur007" width="47%" height="100%" />
 <img src="https://github-readme-stats.vercel.app/api?username=tajnur007&show_icons=true&theme=tokyonight" alt="tajnur007" width="47%"  />
 </p>
+-->
 
 <!-- <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajnur007&layout=compact&theme=merko" alt="tajnur007" width="47%" />
