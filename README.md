@@ -12,7 +12,7 @@
 <!-- [![website](https://img.shields.io/badge/Website-informational?&style=flat&logo=Google-Chrome&logoColor=white&link=https://tajnur.gatsbyjs.io/)](https://tajnur.gatsbyjs.io/) -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=tajnur007&color=brightgreen) -->
 
-👋 Hello, I'm a JavaScript-based Front-end developer with over 3+ years of professional experience. I'm passionate about crafting beautiful and user-friendly web interfaces that deliver seamless experiences to users. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive websites using modern frameworks like React.js and Angular. I have a keen eye for design, attention to detail, and a problem-solving mindset that allows me to tackle complex challenges efficiently. My goal is to create engaging and accessible web applications that exceed client expectations. Let's collaborate and bring your ideas to life!
+👋 Hello, I'm a JavaScript-based Front-end developer with over 4 years of professional experience. I'm passionate about crafting beautiful, user-friendly web interfaces that deliver seamless experiences to users. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive websites using modern frameworks like React.js and Angular. I have a keen eye for design, attention to detail, and a problem-solving mindset that allows me to tackle complex challenges efficiently. I aim to create engaging and accessible web applications that exceed client expectations. Let's collaborate and bring your ideas to life!
 
 
 <!--
