@@ -12,8 +12,11 @@
 <!-- [![website](https://img.shields.io/badge/Website-informational?&style=flat&logo=Google-Chrome&logoColor=white&link=https://tajnur.gatsbyjs.io/)](https://tajnur.gatsbyjs.io/) -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=tajnur007&color=brightgreen) -->
 
-👋 Hello, I'm a JavaScript-based Front-end developer with over 4 years of professional experience. I'm passionate about crafting beautiful, user-friendly web interfaces that deliver seamless experiences to users. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive websites using modern frameworks like React.js and Angular. I have a keen eye for design, attention to detail, and a problem-solving mindset that allows me to tackle complex challenges efficiently. I aim to create engaging and accessible web applications that exceed client expectations. Let's collaborate and bring your ideas to life!
+Senior Front-End Developer with 5+ years of experience architecting scalable web applications. Expert in the React ecosystem (Next.js, TypeScript, Redux) and Angular, with a proven track record of improving application performance by 70%+. Deep experience in Micro-frontend architecture, CI/CD pipeline integration, and leading development teams in Agile environments. Passionate about UI/UX consistency, accessibility (WCAG), and mentoring junior developers.
 
+<!--
+👋 Hello, I'm a frontend focused Full-stack developer with over 5 years of professional experience. I'm passionate about crafting beautiful, user-friendly web interfaces that deliver seamless experiences to users. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive and interactive websites using modern frameworks like React.js and Angular. I have a keen eye for design, attention to detail, and a problem-solving mindset that allows me to tackle complex challenges efficiently. I aim to create engaging and accessible web applications that exceed client expectations. Let's collaborate and bring your ideas to life!
+-->
 
 <!--
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
